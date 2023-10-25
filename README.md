@@ -1,4 +1,4 @@
-# Usando Base de Datos en Heroku
+# Usando Base de Datos en Heroku - SQLite3
 
 ## Lista de Archivos necesarios
 
