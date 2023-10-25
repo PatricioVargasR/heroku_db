@@ -11,10 +11,11 @@ class Contacto(BaseModel):
 
 # Crear la conexión a la base de datos
 conn = mysql.connector.connect(
-    user='root',
-    password='',
-    host='localhost',
-    database='contactos'
+    user='r8j7aq906amihnto',
+    password='ceandy13kb8mepit',
+    host='jhdjjtqo9w5bzq2t.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    port='3306',
+    database='jjyuzlldzo267aht'
 )
 
 @app.get("/")
