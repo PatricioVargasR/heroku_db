@@ -1,4 +1,4 @@
-# Usando Base de Datos en Heroku - Mytsql
+# Usando Base de Datos en Heroku - Mysql
 
 ## Lista de Archivos necesarios
 
