@@ -20,7 +20,7 @@ conn = mysql.connector.connect(
 
 @app.get("/")
 def inicio():
-    return {'Developer by': 'Patricio Vargas f:'}
+    return {'Developer by': 'Patricio Vargas f:', "BD": "MySQL" }
 
 # Rutas para las operaciones CRUD
 
